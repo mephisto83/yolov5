@@ -1,3 +1,8 @@
+
+python detect.py --source F:\\icso\\video_images\\0001.png
+
+python detect.py --source F:\\icso\\video_images_4
+python detect.py --save-crop --source D:\\images\\raw --project D:\\images\\trimmed
 <div align="center">
   <p>
     <a align="center" href="https://ultralytics.com/yolov5" target="_blank">
